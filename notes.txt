@@ -1,0 +1,22 @@
+fit transdorm
+over fitting
+cross validation
+feature scaling - why?
+	Standarsation
+	Normalization
+euclidian distance
+
+y = b0 + b1x1 linear regression
+coefficient (propotion) b1
+constant b0
+
+dummy variiable trap - why?
+
+best fitting line
+	yi^ - model observation
+	yi - actual observation
+	sum(y-y^)2 -> min
+
+p-value
+
+panelty parameter C
