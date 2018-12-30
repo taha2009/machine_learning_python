@@ -20,3 +20,5 @@ best fitting line
 p-value
 
 panelty parameter C
+
+information entropy
