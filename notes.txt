@@ -22,3 +22,6 @@ p-value
 panelty parameter C
 
 information entropy
+
+gini impurity
+informatioj gain
