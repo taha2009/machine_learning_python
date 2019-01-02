@@ -25,3 +25,5 @@ information entropy
 
 gini impurity
 informatioj gain
+
+ensemble learning
