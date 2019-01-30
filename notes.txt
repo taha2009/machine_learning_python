@@ -27,3 +27,8 @@ gini impurity
 informatioj gain
 
 ensemble learning
+
+Cumulative Accuracy profile
+Receiver Operating Characteristic
+
+post facto variable
